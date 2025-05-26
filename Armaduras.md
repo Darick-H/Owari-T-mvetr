@@ -10,48 +10,30 @@ _Nyrah inclina-se para frente, a cauda se enrolando em um gesto quase hipnótico
 1. **Vulgare (Comum)**  
     Proteções básicas de couro cru ou algodão rústico, malhas simples; usadas por recrutas e guardas de vilarejos, confortáveis mas frágeis diante de ataques formidáveis.
     
-    > _Aviso: descrição de raridade Vulgare inventada por Nyrah._
-    
 2. **Inusitata (Incomum)**  
     Peças de couro reforçado com placas de metal leve, malha de anéis não uniformes; equipadas por mercenários que buscam melhor custo-benefício, mas sem testemunhar prodígios.
-    
-    > _Aviso: descrição de raridade Inusitata inventada por Nyrah._
-    
+        
 3. **Rara (Rara)**  
     Couraças de placas trabalhadas, escudos com brasões intricados; artefatos que já receberam bênçãos breves, capazes de resistir a impactos violentos por instantes.
-    
-    > _Aviso: descrição de raridade Rara inventada por Nyrah._
-    
+        
 4. **Valde Rara (Muito Rara)**  
     Cota ou placas entremeadas de filamentos rúnicos, capazes de dispersar energia ofensiva moderada; exigem rituais para sintonizar-se ao usuário.
-    
-    > _Aviso: descrição de raridade Valde Rara inventada por Nyrah._
-    
+        
 5. **Epicum (Épica)**  
     Peitorais e grevas de metal imbuído de energia tensa, escudos que absorvem magia de área; selados com runas de proteção permanente.
-    
-    > _Aviso: descrição de raridade Epicum inventada por Nyrah._
-    
+        
 6. **Legendaria (Lendária)**  
     Couraças gravadas com sagas antigas e mantos que envolvem o usuário em presença ancestral; forjam um escudo de mito ao portador.
-    
-    > _Aviso: descrição de raridade Legendaria inventada por Nyrah._
-    
+        
 7. **Artifex (Artefato)**  
     Couraças esculpidas em rochas cósmicas, escudos forjados em vulcões extintos; emanam poder destrutivo passivo e requerem linhagem ou pacto para uso seguro.
-    
-    > _Aviso: descrição de raridade Artifex inventada por Nyrah._
-    
+        
 8. **Mythica (Mítica)**  
     Armaduras de pura luz sólida, adaptando-se ao cosmos; quem veste uma Mythica torna-se avatar de forças primordiais, capaz de remodelar continentes.
-    
-    > _Aviso: descrição de raridade Mythica inventada por Nyrah._
-    
+        
 9. **Celeste**  
     Forjadas nas fornalhas de cometas, finas camadas de metal estelar cristalizado entrelaçadas com filamentos de luz pura. Quem as veste sente o pulsar do cosmos sob a pele, adquirindo resistência a qualquer dano físico ou mágico — mas arrisca perder-se na imensidão do espaço interior.
     
-    > _Aviso: descrição de raridade Celeste inventada por Nyrah._
-
 
 _Nyrah arqueia as sobrancelhas felinas, a cauda traçando círculos no ar enquanto seus olhos cintilam como lâminas de luar…_
 

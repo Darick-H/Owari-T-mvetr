@@ -11,27 +11,23 @@ O início sempre parecerá o mesmo — mas a cada retorno, será você quem mudo
 Agora... me mostre do que é feito. Pedra, gelo... ou sombra?
 
 ---
-
-## 🧬 Raças Jogáveis
-
-> *Olhe bem para cada ancestral que caminha sob a neve. Sua herança define sua força.*
 ## 🧬 Raças Jogáveis
 
 > *Olhe bem para cada ancestral que caminha sob a neve. Sua herança define sua força.*
 
-| Raça                            | Modificadores        | HD  | PV Extra | Bônus XP | Perícias                   | Visão de Nyrah                                                                         |
-| ------------------------------- | -------------------- | --- | -------- | -------- | -------------------------- | -------------------------------------------------------------------------------------- |
-| **[[Dvergrim Glacialis]]**      | STR +2, CON +1       | d10 | +1       | –5%      | Ferraria, História         | *“Densos como o gelo que cavam. São rochas que andam, mas escutam como ecos.”*         |
-| **[[Jötunkin Borealis]]**       | CON +2, STR +1       | d12 | +2       | –10%     | Intimidação, Sobrevivência | *“Altos, brutos... mas há uma tristeza em seus olhos que o mundo esqueceu.”*           |
-| **[[Fenriscanis]]**             | DEX +2, WIS +1       | d8  | +1       | –5%      | Percepção, Furtividade     | *“Eles farejam mentiras antes mesmo de você pensar em dizê-las.”*                      |
-| **[[Elfi Frigoris]]**           | DEX +2, INT +1       | d8  | +1       | –5%      | Arcana, Acrobacia          | *“Cada passo deles é uma dança com o silêncio. Bonitos demais pra serem confiáveis.”*  |
-| **[[Alfaro Borealis]]**         | INT +2, CHA +1       | d8  | +1       | –5%      | Investigação, Persuasão    | *“Palavras doces, intenções amargas. Brilham como ouro — falsos como ele.”*            |
-| **[[Svartalfar Subterrans]]**   | INT +1, CON +2       | d10 | +1       | –5%      | Enganação, Ferraria        | *“O subsolo os ensinou a esconder mais do que mostram. E eles mostram bem pouco.”*     |
-| **[[Valkyria Aeternae]]**       | STR +1, CHA +2       | d10 | +2       | –10%     | Atletismo, Intimidação     | *“Lindas, letais, leais. Um trio de palavras que raramente andam juntas.”*             |
-| **[[Nornborn Seers]]**          | WIS +2, INT +1       | d6  | +1       | –5%      | História, Religião         | *“Eles não falam muito... mas quando falam, o destino ouve.”*                          |
-| **[[Skogfolk Silvana]]**        | DEX +1, WIS +2       | d8  | +1       | –5%      | Sobrevivência, Furtividade | *“Eles somem como névoa e caçam como lobos. Nunca os subestime por parecerem calmos.”* |
-| **[[Huldra Liante]]**           | CHA +2, DEX +1       | d6  | +1       | –5%      | Persuasão, Enganação       | *“Você vai amá-las, claro... até perceber que está afundando.”*                        |
-| **[[Humanos (Homo Nordicus)]]** | +1 em três atributos | d8  | +1       | –10%     | Duas perícias à escolha    | *“Sempre inquietos. Nunca param... e talvez seja isso que os torne perigosos.”*        |
+| Raça                            | Modificadores        | HD  | PV Extra | Perícias                   | Visão de Nyrah                                                                         |
+| ------------------------------- | -------------------- | --- | -------- | -------------------------- | -------------------------------------------------------------------------------------- |
+| **[[Dvergrim Glacialis]]**      | STR +2, CON +1       | d10 | +1       | Ferraria, História         | *“Densos como o gelo que cavam. São rochas que andam, mas escutam como ecos.”*         |
+| **[[Jötunkin Borealis]]**       | CON +2, STR +1       | d12 | +2       | Intimidação, Sobrevivência | *“Altos, brutos... mas há uma tristeza em seus olhos que o mundo esqueceu.”*           |
+| **[[Fenriscanis]]**             | DEX +2, WIS +1       | d8  | +1       | Percepção, Furtividade     | *“Eles farejam mentiras antes mesmo de você pensar em dizê-las.”*                      |
+| **[[Elfi Frigoris]]**           | DEX +2, INT +1       | d8  | +1       | Arcana, Acrobacia          | *“Cada passo deles é uma dança com o silêncio. Bonitos demais pra serem confiáveis.”*  |
+| **[[Alfaro Borealis]]**         | INT +2, CHA +1       | d8  | +1       | Investigação, Persuasão    | *“Palavras doces, intenções amargas. Brilham como ouro — falsos como ele.”*            |
+| **[[Svartalfar Subterrans]]**   | INT +1, CON +2       | d10 | +1       | Enganação, Ferraria        | *“O subsolo os ensinou a esconder mais do que mostram. E eles mostram bem pouco.”*     |
+| **[[Valkyria Aeternae]]**       | STR +1, CHA +2       | d10 | +2       | Atletismo, Intimidação     | *“Lindas, letais, leais. Um trio de palavras que raramente andam juntas.”*             |
+| **[[Nornborn Seers]]**          | WIS +2, INT +1       | d6  | +1       | História, Religião         | *“Eles não falam muito... mas quando falam, o destino ouve.”*                          |
+| **[[Skogfolk Silvana]]**        | DEX +1, WIS +2       | d8  | +1       | Sobrevivência, Furtividade | *“Eles somem como névoa e caçam como lobos. Nunca os subestime por parecerem calmos.”* |
+| **[[Huldra Liante]]**           | CHA +2, DEX +1       | d6  | +1       | Persuasão, Enganação       | *“Você vai amá-las, claro... até perceber que está afundando.”*                        |
+| **[[Humanos (Homo Nordicus)]]** | +1 em três atributos | d8  | +1       | Duas perícias à escolha    | *“Sempre inquietos. Nunca param... e talvez seja isso que os torne perigosos.”*        |
 
 
 ---
@@ -65,14 +61,11 @@ Todos os personagens começam com **4 em cada atributo** e podem distribuir **+4
 
 > *Força bruta e precisão felina.*
 
-| Subclasse               | Estilo de Combate    | Habilidade-chave                       |
-| ----------------------- | -------------------- | -------------------------------------- |
-| **[[Krigar]]**          | Armas pesadas        | _Fenditura Estelar_ (ataque giratório) |
-> Martelos e espadas que ecoam trovões.
-| **[[Ulfhednar]]**       | Duas armas, fúria    | _Fúria Lupina_ (bônus de ataque/defesa)|
-> A fera interior liberta-se em cada investida.
-| **[[Vakt]]**            | Defesa com escudo    | _Muralha de Gelo_ (proteção de aliados)|
-> Escudos erguem-se como muralhas de gelo vivente.
+| Subclasse         | Estilo de Combate | Habilidade-chave                        | Visão de Nyrah                                   |
+| ----------------- | ----------------- | --------------------------------------- | ------------------------------------------------ |
+| **[[Krigar]]**    | Armas pesadas     | _Fenditura Estelar_ (ataque giratório)  | Martelos e espadas que ecoam trovões.            |
+| **[[Ulfhednar]]** | Duas armas, fúria | _Fúria Lupina_ (bônus de ataque/defesa) | A fera interior liberta-se em cada investida.    |
+| **[[Vakt]]**      | Defesa com escudo | _Muralha de Gelo_ (proteção de aliados) | Escudos erguem-se como muralhas de gelo vivente. |
 
 ---
 
@@ -80,14 +73,11 @@ Todos os personagens começam com **4 em cada atributo** e podem distribuir **+4
 
 > *Corte e magia gravados no metal.*
 
-| Subclasse               | Estilo               | Habilidade-chave                         |
-| ----------------------- | -------------------- | ---------------------------------------- |
-| **[[Runebreaker]]**     | Runas explosivas     | _Impacto Rúnico_ (dano mágico adicional) |
-> Símbolos que explodem como estrelas em fúria.
-| **[[Skarn]]**           | Magia elemental      | _Rajada Elemental_ (atordoamento)        |
-> O frio ou o fogo obedecem sua vontade.
-| **[[Blóðmær]]**         | Magia via sacrifício | _Coração Sangrento_ (dano extra por PV)  |
-> O preço do poder é escrito em sangue.
+| Subclasse           | Estilo               | Habilidade-chave                         | Visão de Nyrah                                |
+| ------------------- | -------------------- | ---------------------------------------- | --------------------------------------------- |
+| **[[Runebreaker]]** | Runas explosivas     | _Impacto Rúnico_ (dano mágico adicional) | Símbolos que explodem como estrelas em fúria. |
+| **[[Skarn]]**       | Magia elemental      | _Rajada Elemental_ (atordoamento)        | O frio ou o fogo obedecem sua vontade.        |
+| **[[Blóðmær]]**     | Magia via sacrifício | _Coração Sangrento_ (dano extra por PV)  | O preço do poder é escrito em sangue.         |
 
 ---
 
@@ -95,14 +85,11 @@ Todos os personagens começam com **4 em cada atributo** e podem distribuir **+4
 
 > *Runas que ressoam no vento e nos sonhos.*
 
-| Subclasse               | Estilo                         | Habilidade-chave                           |
-| ----------------------- | ------------------------------ | ------------------------------------------ |
-| **[[Volva]]**           | Profecias e maldições          | _Olhar do Destino_ (revela fraquezas)      |
-> Visões que ardem como brasas.
-| **[[Galdramenn]]**      | Magias rúnicas complexas       | _Círculo Rúnico_ (potencializa feitiços)   |
-> Círculos que giram entre vida e morte.
-| **[[Frostcaller]]**     | Tempestades, gelo e vento      | _Tempestade Boreal_ (área de lentidão mágica)|
-> O céu se parte em auroras geladas.
+| Subclasse           | Estilo                    | Habilidade-chave                              | Visão de Nyrah                         |
+| ------------------- | ------------------------- | --------------------------------------------- | -------------------------------------- |
+| **[[Volva]]**       | Profecias e maldições     | _Olhar do Destino_ (revela fraquezas)         | Visões que ardem como brasas.          |
+| **[[Galdramenn]]**  | Magias rúnicas complexas  | _Círculo Rúnico_ (potencializa feitiços)      | Círculos que giram entre vida e morte. |
+| **[[Frostcaller]]** | Tempestades, gelo e vento | _Tempestade Boreal_ (área de lentidão mágica) | O céu se parte em auroras geladas.     |
 
 ---
 

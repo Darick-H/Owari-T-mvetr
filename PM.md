@@ -1,0 +1,1 @@
+Sucessor do rei Carlos, principe, agora rei, seguia em segredo...  [[🌌 Vaelorn, o Tecelão das Runas]]

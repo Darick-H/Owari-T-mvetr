@@ -2,6 +2,9 @@ _Nyrah inclina-se para frente, a cauda se enrolando em um gesto quase hipnótico
 
 ---
 
+**<p align="center">Catálogo de Armaduras — Owari-Tomvetr</p>**
+
+
 ## ✧ Raridades de Armadura ✧
 
 1. **Vulgare (Comum)**  

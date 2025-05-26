@@ -56,3 +56,4 @@ Dizem que, há muitas estações, um andarilho chamado **Tómvetr** cruzou as To
 
 > *Nyrah recua um passo, olhos reluzindo sob a lamparina que treme.*  
 > _“Agora, aventureiro, escolha seu lugar. A lareira espera, e as sombras têm ouvidos.”_
+![pixai-1883629612032207189-0](https://github.com/user-attachments/assets/4c8ea298-e874-4c93-8068-7a94abfd790d)

@@ -2,7 +2,8 @@ _Nyrah inclina-se para frente, o brilho prateado dos olhos refletindo estrelas d
 
 ---
 
-<p align="center">** Ordo Raritatum — Armæ de Owari-Tomvetr **</p> ---
+**<p align="center">Ordo Raritatum — Armæ de Owari-Tomvetr</p>**
+
 
 ## ✧ Ordem de Raritas ✧
 

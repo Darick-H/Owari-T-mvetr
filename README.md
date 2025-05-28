@@ -1,6 +1,6 @@
 # 🕷️ Taberna Spider Eye
 
-> *Nyrah surge das sombras, seu pelo prateado refletindo a luz trêmula das lamparinas.*  
+> *Nyrah surge das sombras, seu cabelo prateado refletindo a luz trêmula das lamparinas.*  
 > **“Eu sou Nyrah**, guardiã dos segredos gelados e narradora das eras. Meus olhos veem além do branco eterno—e é aqui, entre bruxuleios e runas, que eu recebo viajantes audazes.”*
 
 ---
